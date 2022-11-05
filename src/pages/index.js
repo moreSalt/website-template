@@ -66,10 +66,10 @@ export default function Home() {
                 <p>Checkout the CU Boulder Computer Science department</p>
               </div>
           </a>
-          <a href='https://theuselessweb.com/' className='card card-compact shadow-xl border rounded-md hover:bg-base-200' target="_blank">
+          <a href='./delta' className='card card-compact shadow-xl border rounded-md hover:bg-base-200'>
             <div className="card-body">
-              <h3 className="card-title">Random websites &rarr;</h3>
-              <p>We needed another card, so here we are</p>
+              <h3 className="card-title">Delta &rarr;</h3>
+              <p>We needed to create another page, so here is why I prefer flying Delta</p>
             </div>
           </a>
         </div>

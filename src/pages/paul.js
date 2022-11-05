@@ -34,6 +34,7 @@ export default function paulPage() {
           <ul className="flex gap-2 flex-wrap">
             <li className="badge badge-primary">Javascript/Typescript</li>
             <li className="badge badge-primary">Node.js</li>
+            <li className="badge badge-primary">Svelte/Sveltekit</li>
             <li className="badge badge-primary">HTML/CSS</li>
             <li className="badge badge-primary">Tailwind CSS</li>
             <li className="badge badge-primary">Git</li>
