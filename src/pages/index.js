@@ -17,7 +17,7 @@ export default function Home() {
         <div className='grid grid-cols-2 gap-4 auto-rows-fr'>
 
           <a 
-            href='/parker' 
+            href='/parkerSecrest' 
             className='card card-compact shadow-xl border rounded-md hover:bg-base-200'
           >
             <div className="card-body">

@@ -26,12 +26,12 @@ export default function paulPage() {
           </div>
 
           {/* Bio */}
-          <p className='flex-wrap'>
+          <p className='flex-wrap flex justify-center'>
             I am a CS student at CU Boulder and full stack developer with 2+ of experience.
           </p>
 
           {/* Tech stack */}
-          <ul className="flex gap-2 flex-wrap">
+          <ul className="flex gap-2 flex-wrap justify-center">
             <li className="badge badge-primary">Javascript/Typescript</li>
             <li className="badge badge-primary">Node.js</li>
             <li className="badge badge-primary">Svelte/Sveltekit</li>
@@ -39,7 +39,7 @@ export default function paulPage() {
             <li className="badge badge-primary">Tailwind CSS</li>
             <li className="badge badge-primary">Git</li>
             <li className="badge badge-primary">C++</li>
-            <li className="badge badge-primary">Pyhton</li>
+            <li className="badge badge-primary">Python</li>
             <li className="badge badge-primary">AWS</li>
             <li className="badge badge-primary">Supabase</li>
             <li className="badge badge-primary">PostgreSQL</li>
