@@ -47,13 +47,13 @@ export default function Home() {
             </div>
           </a>
           <a
-            href='https://github.com/wangalec/website-template'
+            href='https://github.com/moreSalt/website-template'
             target="_blank"
             className='card card-compact shadow-xl border rounded-md hover:bg-base-200'>
               <div className="card-body">
                 <h3 className="card-title">Project Resources &rarr;</h3>
                 <p>
-                  The template we were given
+                  Our Github repo, we were given a template to expand upon.
                 </p>
               </div>
           </a>
